@@ -1,9 +1,7 @@
 
 # Covid-19 Tracker
 
-Demo: [https://anuragtomar2510-covid19-tracker.netlify.app/]
-
-It is a React-based Covid-19 Tracking Application. It displays Covid-19 Global Stats like total number of confirmed cases, total number of active cases, total number of recovered cases and total deaths. Also, user can select a country to see Covid-19 Stats in that country. This application uses disease.sh - Open Disease Data API which can be found [here](https://corona.lmao.ninja/). It also uses [react-chartjs-2](https://www.npmjs.com/package/react-chartjs-2) for displaying Covid-19 Country Stats.
+This is a COVID-19 tracking application that provides a comprehensive overview of global statistics. Users can view key metrics, including the total number of confirmed cases, active cases, recoveries, and deaths. Additionally, users have the option to select a specific country to see detailed COVID-19 statistics for that region. The application utilizes the disease.sh Open Disease Data API, accessible [here](https://corona.lmao.ninja/), to ensure accurate and up-to-date information. To enhance data visualization, it incorporates [react-chartjs-2](https://www.npmjs.com/package/react-chartjs-2) for displaying country-specific stats. Stay informed and monitor the pandemic’s impact with ease!
 
 Feel free to fork the repository for your own learning
 
